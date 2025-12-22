@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">I’m new to this game, learning the fundamentals of coding and version control.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jmyles1604&label=Profile%20views&color=0e75b6&style=flat" alt="jmyles1604" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=jmyles1604&label=Profile%20views&color=0e75b6&style=flat" alt="jmyles1604" /> </p>
 
 🔭 I’m currently working on **building my knowledge up to get a job in this feild**
 
-🌱 I’m currently learning **CodeSpace and Software Dev on the job diploma*
+🌱 I’m currently learning **CodeSpace and Software Dev on the job diploma**
  
 🤝 I’m looking for help with **How to grow my skills**
 
