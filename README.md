@@ -11,7 +11,6 @@
 
 📫 How to reach me **johnmyles1604@gmail.com**
 
-- ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmyles1604&show_icons=true&theme=synthwave)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmyles1604&show_icons=true&theme=synthwave&locale=en&layout=compact&alt="jmyles1604" /></p>
 
 
