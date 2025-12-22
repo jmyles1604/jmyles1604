@@ -11,7 +11,7 @@
 
 📫 How to reach me **johnmyles1604@gmail.com**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmyles1604&show_icons=true&theme=synthwave&locale=en&layout=compact&alt="jmyles1604" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmyles1604&show_icons=true&theme=synthwave&locale=en&layout=compact&alt="jmyles1604" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
