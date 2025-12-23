@@ -9,7 +9,12 @@
  
 🤝 I’m looking for help with **How to grow my skills**
 
-📫 How to reach me **johnmyles1604@gmail.com**
+✨ Fun fact: I was scared of blood and needles, before getting into Midwifery.
+💻 I'm doing a bootcamp at CodeSpace Academy (@EdinburghCollege)
+👀 I’m interested in family, football, sports in general, music of all sorts.
+🌱 I’m currently learning CSS + HTML, Javascript, PHP, Python & SQL.
+💞️ When I'm not coding, you can find me with my family or at Tynecastle watching Hearts.
+📫 How to reach me: johnmyles1604@gmail.com. I am also on Twitter/X ( @JohnMyles1604 )
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmyles1604&show_icons=true&theme=synthwave&locale=en&layout=compact&alt="jmyles1604" /></p>
 
