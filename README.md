@@ -3,14 +3,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jmyles1604&label=Profile%20views&color=0e75b6&style=flat" alt="jmyles1604" /> </p>
 
-🔭 I’m currently working on **building my knowledge up to get a job in this feild**
-
-🌱 I’m currently learning **CodeSpace and Software Dev on the job diploma**
- 
-🤝 I’m looking for help with **How to grow my skills**
-
-✨ Fun fact: I was scared of blood and needles, before getting into Midwifery.
-💻 I'm doing a bootcamp at CodeSpace Academy (@EdinburghCollege)
+💻 I'm doing a bootcamp at CodeSpace Academy @EdinburghCollege and Software Development Diploma @QA
 👀 I’m interested in family, football, sports in general, music of all sorts.
 🌱 I’m currently learning CSS + HTML, Javascript, PHP, Python & SQL.
 💞️ When I'm not coding, you can find me with my family or at Tynecastle watching Hearts.
