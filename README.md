@@ -20,7 +20,7 @@
 - 🌱 Currently learning: **HTML, CSS, JavaScript, PHP, Python & SQL**
 - ⚽ When I’m not coding, I’m with my family or at **Tynecastle watching Hearts**
 - 📫 Reach me at: **johnmyles1604@gmail.com**  
-  Also on **Twitter/X**: [@JohnMyles1604](https://twitter.com/JohnMyles1604)
+- ➡️ Also on **Twitter/X**: [@JohnMyles1604](https://twitter.com/JohnMyles1604)
 
 ---
 
