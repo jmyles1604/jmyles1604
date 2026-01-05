@@ -27,10 +27,8 @@
 ### 📊 Languages Breakdown
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=jmyles1604&layout=compact&theme=synthwave"
-    alt="Top languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmyles1604&layout=compact&theme=synthwave"
+    alt="Top languages"/>
 </p>
 
 ---
