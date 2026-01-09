@@ -15,7 +15,7 @@
 ### 💻 About Me
 
 - 🎓 Bootcamp student at **CodeSpace Academy** @ **Edinburgh College**  
-- 📜 Studying **Software Development Diploma** @ **QA**
+- 📜 Studying **Digital Technology: Software Development SCQF Level 8 ** @ **QA**
 - 👀 Interests: family, football, sports, and music (no bad genres, just bad playlists)
 - 🌱 Currently learning: **HTML, CSS, JavaScript, PHP, Python & SQL**
 - ⚽ When I’m not coding, I’m with my family or at **Tynecastle watching Hearts**
