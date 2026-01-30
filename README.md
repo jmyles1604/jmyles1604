@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm John</h1>
+<div align="center">
+
+<!-- Custom Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=200&section=header&text=John%20Myles&fontSize=60&fontColor=FFD23F&animation=fadeIn&fontAlignY=35&desc=Junior%20Software%20Developer&descSize=20&descAlignY=55&descColor=FFE8A3" />
+
+</div>
+
 <h3 align="center">
   I’m new to this game, learning the fundamentals of coding and version control.
 </h3>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=jmyles1604&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Profile views"
-  />
-</p>
 
 ---
 
