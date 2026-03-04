@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Custom Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=200&section=header&text=John%20Myles&fontSize=60&fontColor=FFD23F&animation=fadeIn&fontAlignY=35&desc=Junior%20Software%20Developer&descSize=20&descAlignY=55&descColor=FFE8A3" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,6,12,20,30&text=John%20Myles&fontSize=65&fontColor=FFD23F&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Developer%20|%20Full-Stack%20Learner&descSize=22&descAlignY=58&descColor=FFF4C2" />
 </div>
 
 <h3 align="center">
