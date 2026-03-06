@@ -16,7 +16,7 @@
 - 📜 Studying **Software Development SCQF Level 8** @ **QA**
 - 👀 Interests: family, football, sports, and music (no bad genres, just bad playlists)
 - 🌱 Currently learning: **HTML, CSS, JavaScript, PHP & SQL**
-- ⚽ When I’m not coding, I’m with my family or at **Tynecastle watching Hearts**
+- ⚽ When I’m not coding, I’m having dance partys with my daughters or at **Tynecastle watching Hearts**
 - 📫 Reach me at: **johnmyles1604@gmail.com**  
 - ➡️ Also on **Twitter/X**: [@JohnMyles1604](https://twitter.com/JohnMyles1604)
 
